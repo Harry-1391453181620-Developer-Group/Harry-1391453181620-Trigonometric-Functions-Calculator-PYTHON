@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D525DD-C147-415A-A429-3850DA0A24B5}|Trigonometric Functions calculators.pyproj|D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\main_calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88D525DD-C147-415A-A429-3850DA0A24B5}|Trigonometric Functions calculators.pyproj|solutionrelative:main_calculator.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D525DD-C147-415A-A429-3850DA0A24B5}|Trigonometric Functions calculators.pyproj|D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\definitions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{88D525DD-C147-415A-A429-3850DA0A24B5}|Trigonometric Functions calculators.pyproj|solutionrelative:definitions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_calculator.py",
+              "DocumentMoniker": "D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\main_calculator.py",
+              "RelativeDocumentMoniker": "main_calculator.py",
+              "ToolTip": "D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\main_calculator.py",
+              "RelativeToolTip": "main_calculator.py",
+              "ViewState": "AgIAAJMAAAAAAAAAAADwvw4AAABzAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKfSURBVDhPpZNPSBRRHMc/783O2p9t/0CHrUOBpyWEDDcS2hAPkp40JAr01qlDSCB49BToSeziwYMnT56WPagnDw1oYChhUXSow5QLBft2WXCb3Tevw6zjriYlfuHH\u002B73v/N5n3pv3G8Ep6tl2cqlIeTElK5mkpUhZZVKyTNIqN3N1lFsKm3oxeXU/LY\u002BDADq3P\u002BQQctUYmTEACIwRGI7CR2KQ\u002BEaijQWQVj\u002Bv7Z0AprZ\u002B5IwWq74RscOF2shgJFjcMBYNLOomgodNzXSgsUASE220Wz0L9s3OZ1FL21HhERUeHaJOkAejLepBTpDfvXeJsbHLXJIHXBC/vx3BnEqO7vsNwJwlBh9fN2\u002B/58z7/az5tH/7a3Bkp5IDaxUhLYCpqSmWlpaYm5sjm80CMDw8zMLCAtPT08RisXAfdSJU/CuUdRzlJ5AhDBNWDQ4Osra2Rj6fp1AoMDo6yuTkJMvLy9RqNQqFwhHQ2FT0FZQfp6QTSJArrbBDdXd309fXh\u002Bu6jIyMMDMzg\u002BM4zM7O0t/fH9Z5xqbsx1E6gfLjSCDdRmrR7u4uAwMDuK5LJpMBIJlMMjExEdbUjY1qAks6yYm2OdT6\u002Bjr5fB6lFPPz84yPj7OyssLm5ibVajWs84zd/H4BVOBUg94FeDEEO29Ip9MopajVauEjgK6uLlzXRSkVeplHvTx89YSIaCDxv/11h8Vi8QQMYG9vrw0G4Pk2yk9Q0onmLZ9Tnomimi1T0olf5wdiU/ITKJ2oKj/5MnK8AGBjY\u002BO41dYqrfL8KErHqzZm6F221wGnasK48\u002BDEr/WvuDj0yLux9Tl3\u002BIL2W349BV/eh9N/SRithXew6H/ceR56bcAzSVRBD5GLO62uBBqtxv/p7zAAiTBPzwgtngYD\u002BAO\u002BQFBre6C3ywAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-21T23:12:52.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "definitions.py",
+              "DocumentMoniker": "D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\definitions.py",
+              "RelativeDocumentMoniker": "definitions.py",
+              "ToolTip": "D:\\VS and VS Code porjects\\VS Projects\\Trigonometric Functions calculators\\definitions.py",
+              "RelativeToolTip": "definitions.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKfSURBVDhPpZNPSBRRHMc/783O2p9t/0CHrUOBpyWEDDcS2hAPkp40JAr01qlDSCB49BToSeziwYMnT56WPagnDw1oYChhUXSow5QLBft2WXCb3Tevw6zjriYlfuHH\u002B73v/N5n3pv3G8Ep6tl2cqlIeTElK5mkpUhZZVKyTNIqN3N1lFsKm3oxeXU/LY\u002BDADq3P\u002BQQctUYmTEACIwRGI7CR2KQ\u002BEaijQWQVj\u002Bv7Z0AprZ\u002B5IwWq74RscOF2shgJFjcMBYNLOomgodNzXSgsUASE220Wz0L9s3OZ1FL21HhERUeHaJOkAejLepBTpDfvXeJsbHLXJIHXBC/vx3BnEqO7vsNwJwlBh9fN2\u002B/58z7/az5tH/7a3Bkp5IDaxUhLYCpqSmWlpaYm5sjm80CMDw8zMLCAtPT08RisXAfdSJU/CuUdRzlJ5AhDBNWDQ4Osra2Rj6fp1AoMDo6yuTkJMvLy9RqNQqFwhHQ2FT0FZQfp6QTSJArrbBDdXd309fXh\u002Bu6jIyMMDMzg\u002BM4zM7O0t/fH9Z5xqbsx1E6gfLjSCDdRmrR7u4uAwMDuK5LJpMBIJlMMjExEdbUjY1qAks6yYm2OdT6\u002Bjr5fB6lFPPz84yPj7OyssLm5ibVajWs84zd/H4BVOBUg94FeDEEO29Ip9MopajVauEjgK6uLlzXRSkVeplHvTx89YSIaCDxv/11h8Vi8QQMYG9vrw0G4Pk2yk9Q0onmLZ9Tnomimi1T0olf5wdiU/ITKJ2oKj/5MnK8AGBjY\u002BO41dYqrfL8KErHqzZm6F221wGnasK48\u002BDEr/WvuDj0yLux9Tl3\u002BIL2W349BV/eh9N/SRithXew6H/ceR56bcAzSVRBD5GLO62uBBqtxv/p7zAAiTBPzwgtngYD\u002BAO\u002BQFBre6C3ywAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-21T23:12:49.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
